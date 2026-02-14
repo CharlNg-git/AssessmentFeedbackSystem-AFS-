@@ -1,5 +1,0 @@
-tpNumber,assessmentID,submittedDate,status
-tp000014,A001,2024-08-08,submitted
-tp000014,A002,2024-08-28,submitted
-tp000015,A001,2024-08-11,submitted late
-tp000016,A007,2025-09-10,submitted

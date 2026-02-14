@@ -1,7 +1,0 @@
-classID,moduleID,IntakeCode,tpNumber,studyLevel,Date,classStart,classEnd,day,locationOrCampus,classStatus
-C0001,M101,INT2407,tp000005,Degree,2025-11-10,08:00,10:00,Friday,A-1-1,Active
-C0002,M102,INT2407,tp000006,Degree,2025-11-12,10:00,12:00,Monday,B-2-3,Active
-C0003,M103,INT2507,tp000008,Degree,2025-11-15,14:00,16:00,Wednesday,C-3-2,Active
-C0004,M104,INT2507,tp000009,Degree,2025-11-17,12:00,14:00,Thursday,D-4-1,Active
-C0005,M102,INT2407,tp000006,Degree,2026-2-12,10:00,12:00,Monday,B-2-3,Active
-C0006,M103,INT2507,tp000008,Degree,2026-02-19,10:00,12:00,Thursday,A-1-1,Active
