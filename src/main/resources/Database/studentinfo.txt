@@ -1,0 +1,10 @@
+fullName,icNumber/passport,gender,dateOfBirth,nationality,race,address,contactNumber,tpNumber,password,intakeCode
+Aisyah Rahim,030214-10-1111,Female,2003-02-14,Malaysian,Malay,Selangor,0171111112,tp000014,pass123,INT2407
+Doe,021103-14-2222,Male,2002-11-03,Malaysian,Chinese,Kuala Lumpur,0182222288,tp000015,pass123,INT2407
+Siti Nora,P5566778,Female,2003-06-20,Indonesian,Malay,Johor,0193333333,tp000016,pass123,INT2507
+Adam Tan,020130-10-3333,Male,2002-01-30,Malaysian,Chinese,Penang,0114444444,tp000017,pass123,INT2407
+Mohammad Rizal,030918-08-4444,Male,2003-09-18,Malaysian,Malay,Perak,0125555555,tp000018,pass123,INT2408
+Emily Chua,P9988776,Female,2002-12-25,Chinese,Chinese,Kuala Lumpur,0136666666,tp000019,pass123,INT2507
+Hafiz Salleh,030410-14-5555,Male,2003-04-10,Malaysian,Malay,Selangor,0147777777,tp000020,pass123,INT2507
+Kevin Lau,P4455667,Male,2002-08-07,Hong Kong,Chinese,Penang,0158888888,tp000021,pass123,INT2507
+Sofia Nur,031001-01-6666,Female,2003-10-01,Malaysian,Malay,Johor,0169999999,tp000022,pass123,INT2508
