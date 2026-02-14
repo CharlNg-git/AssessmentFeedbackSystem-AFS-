@@ -1,0 +1,3 @@
+gradingID,date,A+_min,A+_max,A_min,A_max,B+_min,B+_max,B_min,B_max,C+_min,C+_max,C_min,C_max,C-_min,C-_max,D_min,D_max,F+_min,F+_max,F_min,F_max,F-_min,F-_max,CT
+G001,2024-01-01,90,100,80,89,75,79,70,74,65,69,60,64,55,59,50,54,45,49,40,44,0,39,Passed
+G002,2026-02-12,85,100,80,84,75,79,70,74,65,69,60,64,55,59,50,54,45,49,40,44,0,39,Passed

@@ -1,0 +1,7 @@
+moduleID,moduleName,credirHour,sessionType,Level,tpNumber,gradingID
+M101,Programming Fundamentals,3,Core,Degree,tp000002,G001
+M102,Database Systems,3,Core,Degree,tp000002,G001
+M103,Web Development,3,Elective,Degree,tp000003,G001
+M104,Data Science,3,Elective,Degree,tp000003,G001
+M105,AI Fundamentals,3,Core,Degree,tp000004,G001
+M106,Networks,3,Core,Degree,tp000004,G001

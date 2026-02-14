@@ -1,0 +1,23 @@
+tpNumber,role,name,email,password
+tp000001,admin,Ali Bin Ahmad,ali.admin@uni.edu,pass123
+tp000002,leader,Dr. Sara Kamal,sara.kamal@uni.edu,pass123
+tp000003,leader,Dr. Jason Lee,jason.lee@uni.edu,pass123
+tp000004,leader,Prof. Nurul Hana,nurul.hana@uni.edu,pass123
+tp000005,lecturer,Mr. Andrew Tan,andrew.tan@uni.edu,pass123
+tp000006,lecturer,Ms. Rachel Wong,rachel.wong@uni.edu,pass123
+tp000007,lecturer,Dr. Karim Abdullah,karim.abdullah@uni.edu,pass123
+tp000008,lecturer,Ms. Cheryl Lim,cheryl.lim@uni.edu,pass123
+tp000009,lecturer,Mr. Daniel Lee,daniel.lee@uni.edu,pass123
+tp000010,lecturer,Ms. Fiona Tan,fiona.tan@uni.edu,pass123
+tp000011,lecturer,Dr. Michael Ong,michael.ong@uni.edu,pass123
+tp000012,lecturer,Ms. Natasha Lim,natasha.lim@uni.edu,pass123
+tp000013,lecturer,Mr. Henry Tan,henry.tan@uni.edu,pass123
+tp000014,student,Aisyah Rahim,aisyah.rahim@uni.edu,pass123
+tp000015,student,Doe,john@uni.edu,pass123
+tp000016,student,Siti Nora,siti.nora@uni.edu,pass123
+tp000017,student,Adam Tan,adam.tan@uni.edu,pass123
+tp000018,student,Mohammad Rizal,mohd.rizal@uni.edu,pass123
+tp000019,student,Emily Chua,emily.chua@uni.edu,pass123
+tp000020,student,Hafiz Salleh,hafiz.salleh@uni.edu,pass123
+tp000021,student,Kevin Lau,kevin.lau@uni.edu,pass123
+tp000022,student,Sofia Nur,sofia.nur@uni.edu,pass123

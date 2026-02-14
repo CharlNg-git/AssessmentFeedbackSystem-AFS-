@@ -1,0 +1,10 @@
+tpNumber,moduleID,classID,status
+tp000014,M101,C0001,present
+tp000014,M101,C0002,absent
+tp000015,M101,C0001,present
+tp000015,M102,C0002,present
+tp000014,M102,C0003,present
+tp000016,M103,C0004,present
+tp000018,M105,C0002,present
+tp000018,M106,C0003,present
+tp000018,M107,C0004,present

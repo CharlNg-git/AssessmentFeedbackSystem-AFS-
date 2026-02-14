@@ -1,0 +1,9 @@
+assessmentID,moduleID,name,weight,dueDate
+A001,M101,Test 1,20,2024-08-10
+A002,M101,Assignment,40,2024-09-01
+A003,M101,Final Exam,40,2024-10-10
+A004,M102,Midterm,30,2024-08-15
+A005,M102,Project,30,2024-09-20
+A006,M102,Final Exam,40,2024-10-12
+A007,M103,Project,50,2025-9-15
+A008,M103,Final Exam,50,2025-11-14
