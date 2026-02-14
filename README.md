@@ -58,24 +58,6 @@ The Assessment Feedback System (AFS) is a desktop application built with Java Sw
 - Java Runtime Environment (JRE)
 - Apache NetBeans
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/assessment-feedback-system.git
-   cd assessment-feedback-system
-   ```
-
-2. **Compile the project**
-   ```bash
-   javac -d bin Login/LoginFrame.java
-   ```
-
-3. **Run the application**
-   ```bash
-   java -cp bin Login.LoginFrame
-   ```
-
 ### Default Login Credentials
 
 The system comes with sample data for testing.
