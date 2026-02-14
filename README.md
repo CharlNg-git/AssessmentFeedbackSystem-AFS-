@@ -43,7 +43,7 @@ The Assessment Feedback System (AFS) is a desktop application built with Java Sw
 - Manage system-wide settings
 - Generate administrative reports
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Language**: Java (SE 8+)
 - **GUI Framework**: Java Swing
